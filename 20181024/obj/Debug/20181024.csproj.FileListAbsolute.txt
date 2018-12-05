@@ -17,3 +17,13 @@ C:\Users\Onigi\Desktop\20181024-20181105T161727Z-001\20181024\20181024\obj\Debug
 C:\Users\Onigi\Desktop\20181024-20181105T161727Z-001\20181024\20181024\obj\Debug\20181024.csproj.CoreCompileInputs.cache
 C:\Users\Onigi\Desktop\20181024-20181105T161727Z-001\20181024\20181024\obj\Debug\20181024.exe
 C:\Users\Onigi\Desktop\20181024-20181105T161727Z-001\20181024\20181024\obj\Debug\20181024.pdb
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\bin\Debug\20181024.exe.config
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\bin\Debug\20181024.exe
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\bin\Debug\20181024.pdb
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\20181024.csprojAssemblyReference.cache
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\_20181024.Form1.resources
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\_20181024.Properties.Resources.resources
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\20181024.csproj.GenerateResource.cache
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\20181024.csproj.CoreCompileInputs.cache
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\20181024.exe
+C:\Users\Onigi\Desktop\20181024\20181024\20181024\obj\Debug\20181024.pdb
